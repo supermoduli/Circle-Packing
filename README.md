@@ -1,6 +1,6 @@
 # Circle-Packing
 
-Circle packing in unit square using ADMM:
+Circle packing in the unit square using ADMM:
 
 minimize \sum_{i,j} f_{ij}(z_i, z_j) + \sum_i g_i(z_i)
 
